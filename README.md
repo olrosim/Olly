@@ -154,7 +154,7 @@
         <img src="uz36vb0vkuk91.webp" alt="Работа 8" onclick="openModal(this)">
     </div>
 
-    <p>Посмотреть основное портфолио можно <a href="https://olrosim.github.io/Chelix/">здесь</a>.</p>
+   
 
     <!-- Модальное окно для просмотра в полный размер -->
     <div id="myModal" class="modal" onclick="closeModalOnClick(event)">
