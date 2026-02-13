@@ -1,1 +1,1 @@
-<img src="images/61fl090vkuk91.webp" alt="Моя работа 1">
+<img src="https://github.com/olrosim/Olly/blob/main/7qro3xzukuk91.webp" alt="Моя работа 1">
